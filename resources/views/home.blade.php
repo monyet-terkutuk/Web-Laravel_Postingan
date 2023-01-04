@@ -9,7 +9,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
       @endif
-<h1>Hii Human</h1>
+<h1>Selamat datang manusia Gabut</h1>
 
 @endsection
         
